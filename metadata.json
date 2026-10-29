@@ -1,0 +1,6 @@
+{
+  "name": "CampusBite — Digital College Canteen Platform",
+  "description": "Smart college canteen ordering platform featuring live menu, rush-hour pickup slots, queue reduction, Razorpay checkout, kitchen order display, and admin analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
